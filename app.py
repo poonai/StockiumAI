@@ -6,7 +6,7 @@ chatbot = ChatBot(
     storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
     database = 'chatbot'
 )
-chatbot.train('chatterbot.corpus.english')
+chatbot.train('chatterbot.corpus.english.conversations')
 app = Flask(__name__)
 
 @app.route("/")
