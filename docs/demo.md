@@ -12,7 +12,7 @@
 
 **With environment variables**
 
-Set the following Environment Variables in Travis CI. [Guide](https://docs.travis-ci.com/user/environment-variables/#Defining-Variables-in-Repository-Settings)     
+Set the following Environmen Variables in Travis CI. [Guide](https://docs.travis-ci.com/user/environment-variables/#Defining-Variables-in-Repository-Settings)     
 
 | Environment Variable | Description                                       | Default / FORMAT  |
 |----------------------| ------------------------------------------------- |-------------------|
